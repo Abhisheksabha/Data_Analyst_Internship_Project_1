@@ -18,10 +18,10 @@ This project aims to leverage Tableau's powerful data visualization capabilities
 
 ## Business Problems and Solutions 
 
-## 1. Sales and Customer Data Overview
+## 1. Find Sales and Customer Data Overview
 **Objective:** Provide a high-level summary of key metrics like total orders, total payments, total product categories, total customers and total selling cities.
 
-**Visualization:** KPIs for total orders, total payments, total product categories, total customers and total selling cities.
+ **Visualization:** KPIs for total orders, total payments, total product categories, total customers and total selling cities.
                    Filters for segmentation by product category, customer city and year.
 
 **Key Insights:** There are more than 99k orders placed with 16M+ payment amount, where olist store provides 73 total product categories with 99k+ customers across globe in 611 cities.
@@ -56,7 +56,8 @@ This project aims to leverage Tableau's powerful data visualization capabilities
 ## 5. Average number of days taken for order delivered customer date for pet shop
 **Objective:** Analyze how product review scores (ranging from 1 to 5) correlate with order volume.
 
-**Visualization:** A column chart with review scores on the x-axis and order counts on the y-axis.
+**Visualization:** A kpi built for average days taken for order delivered customer date.
+                   Filters for segmentation by product category.  
 
 **Key Insights:**
 - 11.31 is the average days taken to deliver the order for pet shop.
@@ -72,13 +73,23 @@ This project aims to leverage Tableau's powerful data visualization capabilities
 - Particularly for sao paulo city average price value is 107.5
 - Average payment value in sao paulo city is 135.8
 
-## 7. Relationship between Shipping days and Review scores
+## 7. Relationship between Orders and Review scores
+
+**Objective:** Analyze how product review scores (ranging from 1 to 5) correlate with order volume.
+
+**Visualization:** A column chart with review scores on the x-axis and order counts on the y-axis.
+
+**Key Insights:** A column chart shows rating of 1 corresponds to the longest average shipping time of 13.4 days, while a rating of 5 corresponds to the shortest average shipping time of 6.9 days.
+
+
+## 8. Relationship between Shipping days and Review scores
 
 **Objective:** Examine the relationship between average shipping time and product review scores over time.
 
-**Visualization:** A bar chart showing average shipping days and corresponding review scores.
+**Visualization:** A dual axes line chart showing average shipping days and corresponding review scores.
 
-**Key Insights:** A bar chart shows rating of 1 corresponds to the longest average shipping time of 13.4 days, while a rating of 5 corresponds to the shortest average shipping time of 6.9 days.
+**Key Insights:** A line chart shows rating of 1 corresponds to the longest average shipping time of 21.25 days, while a rating of 5 corresponds to the shortest average shipping time of 10.62 days.
+
 
 ## Conclusion and Learnings:
 
