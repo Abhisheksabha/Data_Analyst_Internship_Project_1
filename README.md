@@ -4,7 +4,7 @@
 
 ## Overview 
 
-This project aims to leverage Tableau's powerful data visualization capabilities to analyze and interpret various metrics from an e-commerce store's sales and customer data. The goal is to extract actionable insights that can help improve business performance, such as increasing sales, improving customer retention, optimizing inventory, and targeting specific market segments.
+The Tableau-powered dashboard is designed to serve as a comprehensive decision-making platform, enabling stakeholders to analyze sales performance, customer behavior, and inventory management effectively. This tool leverages historical and real-time data to provide actionable insights that enhance forecasting, align business strategies, and drive overall growth.
 
 ## Objectives
 
