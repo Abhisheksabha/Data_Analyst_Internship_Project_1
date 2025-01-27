@@ -26,14 +26,14 @@ The Tableau-powered dashboard is designed to serve as a comprehensive decision-m
 
 **Key Insights:** There are more than 99k orders placed with 16M+ payment amount, where olist store provides 73 total product categories with 99k+ customers across globe in 611 cities.
 
-## 2. Weekday Vs Weekend Payment Statistics
+## 2. Find Weekday Vs Weekend Payment Statistics
 **Objective:** Compare customer spending patterns between weekdays and weekends.
 
 **Visualization:** A pie chart displaying the percentage contribution of payment values split by weekdays and weekends.
 
 **Key Insights:** The pie chart shows that the majority of payments (77%) are made on weekdays.
 
-## 3. Day wise Payment Statistics
+## 3. Find day wise Payment Statistics
 **Objective:** Assess payment value trends across individual weekdays.
 
 **Visualization:** A column chart showing payment values for each day of the week.
@@ -43,7 +43,7 @@ The Tableau-powered dashboard is designed to serve as a comprehensive decision-m
 - The highest payments of the week occurred on Tuesday with 366.38k and Thursday with 349.4k.
 - The lowest payments were on the weekend, with Sunday at 269k and Saturday at 229k.
 
-## 4. Number of Orders and payment type 
+## 4. Find the number of Orders and its payment type 
 **Objective:** Compare the number of orders completed using different payment methods such as credit cards, debit cards, vouchers, and Boleto.
 
 **Visualization:** A horizontal bar chart showing order counts for each payment type.
@@ -53,7 +53,7 @@ The Tableau-powered dashboard is designed to serve as a comprehensive decision-m
 - Boleto is the second most popular payment, This boleto made around 18 % of orders.
 - Other payment methods, such as Voucher and Debit card are less popular forms of payment.
 
-## 5. Average number of days taken for order delivered customer date for pet shop
+## 5. Find the average number of days taken for order delivered customer date for pet shop
 **Objective:** Analyze how product review scores (ranging from 1 to 5) correlate with order volume.
 
 **Visualization:** A kpi built for average days taken for order delivered customer date.
@@ -63,7 +63,7 @@ The Tableau-powered dashboard is designed to serve as a comprehensive decision-m
 - 11.31 is the average days taken to deliver the order for pet shop.
 - However for all categories, Average delivery days is 12.50 days.
 
-## 6. Average price and payment values from customers of sao paulo city
+## 6. Find the average price and payment values from customers of sao paulo city
 
 **Objective:** Show city-wise insights for the average payment value and average product price.
 
@@ -73,7 +73,7 @@ The Tableau-powered dashboard is designed to serve as a comprehensive decision-m
 - Particularly for sao paulo city average price value is 107.5
 - Average payment value in sao paulo city is 135.8
 
-## 7. Relationship between Orders and Review scores
+## 7. Find the relationship between Orders and Review scores
 
 **Objective:** Analyze how product review scores (ranging from 1 to 5) correlate with order volume.
 
@@ -82,7 +82,7 @@ The Tableau-powered dashboard is designed to serve as a comprehensive decision-m
 **Key Insights:** A column chart shows rating of 1 corresponds to the longest average shipping time of 13.4 days, while a rating of 5 corresponds to the shortest average shipping time of 6.9 days.
 
 
-## 8. Relationship between Shipping days and Review scores
+## 8. Find the relationship between Shipping days and Review scores
 
 **Objective:** Examine the relationship between average shipping time and product review scores over time.
 
