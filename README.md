@@ -1,6 +1,6 @@
 # Olist E-commerce Store Analysis using Tableau
 
-![]
+![](Olist_store_analytics_dashboard.png)
 
 ## Overview 
 
@@ -13,6 +13,8 @@ This project aims to leverage Tableau's powerful data visualization capabilities
 - Utilize historical and current sales data to enhance forecasting accuracy, set realistic sales targets, and align the sales team's efforts with the company's strategic objectives.
 
 ## Schema 
+
+![](Joins.png)
 
 ## Business Problems and Solutions 
 
