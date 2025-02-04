@@ -2,6 +2,11 @@
 
 ![](Olist_store_analytics_dashboard.png)
 
+## Dashboard Link
+
+![](https://public.tableau.com/views/OlistStoreProjectDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ## Overview 
 
 The Tableau-powered dashboard is designed to serve as a comprehensive decision-making platform, enabling stakeholders to analyze sales performance, customer behavior, and inventory management effectively. This tool leverages historical and real-time data to provide actionable insights that enhance forecasting, align business strategies, and drive overall growth.
